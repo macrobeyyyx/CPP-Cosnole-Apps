@@ -1,11 +1,9 @@
 # C++ Console Uygulamaları
 
-Merhaba Değerli Geliştiriciler! Bu projede, Java konsol uygulamalarınızı tanıtacağım. Önce bu projeleri çalıştırabilmeniz için gereksinimleri kontrol edelim.
+Merhaba Değerli Geliştiriciler! Bu projede, C++ konsol uygulamalarınızı tanıtacağım. Önce bu projeleri çalıştırabilmeniz için gereksinimleri kontrol edelim.
 
 ## Gereksinimler
-
-- Java JDK 3.3 veya daha yeni sürümü
-- IDE (tercihinize göre bir editör)
+- C++ Derleyici (tercihinize göre bir derleyici)
 
 ## Projeler
 
